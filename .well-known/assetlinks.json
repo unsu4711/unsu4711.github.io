@@ -1,11 +1,27 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "net.joe.jc_first_flutter_app",
-    "sha256_cert_fingerprints": [
-      "FC:6A:2C:A5:23:01:BF:B9:FD:45:06:04:A7:82:09:6B:5D:E4:FE:19:F3:81:BB:66:FF:06:14:7E:3C:0A:35:5A",
-      "6A:36:02:73:48:41:B2:5D:26:58:7A:F2:11:68:92:19:A8:B7:E1:6B:92:D5:72:3A:98:7F:94:72:CC:36:EC:96"
-    ]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "net.joe.jc_first_flutter_app",
+      "sha256_cert_fingerprints": [
+        "FC:6A:2C:A5:23:01:BF:B9:FD:45:06:04:A7:82:09:6B:5D:E4:FE:19:F3:81:BB:66:FF:06:14:7E:3C:0A:35:5A",
+        "6A:36:02:73:48:41:B2:5D:26:58:7A:F2:11:68:92:19:A8:B7:E1:6B:92:D5:72:3A:98:7F:94:72:CC:36:EC:96"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.doinglines",
+      "sha256_cert_fingerprints": [
+        "88:08:2C:91:3E:B0:A2:0D:85:E3:65:E4:C9:A1:3B:1D:0C:39:87:F0:B0:D4:D7:3E:A3:89:66:69:37:59:55:EF"
+      ]
+    }
   }
-}]
+]
