@@ -5,6 +5,10 @@
       {
         "appID": "STC6G84FQ8.net.joe.jcFirstFlutterApp",
         "paths": ["/invite/*"]
+      },
+      {
+        "appID": "STC6G84FQ8.com.doinglines",
+        "paths": ["/doing-lines-invite/*"]
       }
     ]
   }
